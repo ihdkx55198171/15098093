@@ -1,3 +1,4 @@
+out.write(”aString”);
 Class.forName(driverClass);
 out.write(”aString”);
 Properties props = new Properties();

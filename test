@@ -1,3 +1,5 @@
+} finally {
+
 } catch (IOException e) {
 BufferedWriter out = null;
 out.write(”aString”);

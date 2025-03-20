@@ -1,3 +1,4 @@
+test.fetch();
 BufferedWriter out = null;
 public class OracleJdbcTest
 } finally {

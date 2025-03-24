@@ -1,3 +1,4 @@
+} catch (IOException e) {
 Properties props = new Properties();
 test.fetch();
 BufferedWriter out = null;

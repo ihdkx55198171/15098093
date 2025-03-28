@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 } catch (IOException e) {
 Connection con;
 Properties props = new Properties();
